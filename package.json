@@ -10,6 +10,7 @@
     "xmlhttprequest": "^1.8.0"
   },
   "scripts": {
-    "callbacks": "node ./src/callbacks.js"
+    "callbacks": "node ./src/callbacks.js",
+    "promises": "node ./src/promises.js"
   }
 }
